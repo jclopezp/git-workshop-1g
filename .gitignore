@@ -1,0 +1,4 @@
+noMeTrackeesPlease.txt
+
+#folder/archivo.txt    // para ignorar el file especifico
+#folder/ 	       // para ignorar la carpeta entera
